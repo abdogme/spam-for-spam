@@ -10,4 +10,4 @@ channel.send(`BOBO BOBO BOBO BOBO BOBO`);
 }, 30)
 })
 
-client.login(process.env.44);
+client.login(process.env.BOT_TOKEN);
